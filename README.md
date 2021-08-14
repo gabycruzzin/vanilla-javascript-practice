@@ -1,0 +1,3 @@
+# vanilla-javascript-practice
+
+Jus' practicing...
